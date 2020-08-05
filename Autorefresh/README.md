@@ -14,7 +14,7 @@ ws:  WebSocket library 7.3.1+
  - Clone or download the repository.
  - Go to the folder of the project.
  - In your preferred terminal, type the following commands:
-  -- **npm install ws** or **npm install -g**  *to install ws globally*.
-  -- **node reloader.server.js**
-  -- Open the index.html file in your browser.
-  -- Make changes to it and see the magic :)
+    - **npm install ws** or **npm install -g**  *to install ws globally*.
+    - **node reloader.server.js**
+    - Open the index.html file in your browser.
+    - Make changes to it and see the magic :)
